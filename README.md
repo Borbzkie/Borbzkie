@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Borbzkie
 - 👀 I’m interested in web, mobile and application development
-- 🌱 I’m currently learning laravel
+- 🌱 aspiring web/ application developer  or software enginner
 - 💞️ 
 - 📫 
 
